@@ -51,7 +51,7 @@ An impossible maze where the cursor is fixed at the center and the maze moves ar
 <img width="1919" height="1041" alt="Screenshot 2025-08-02 061032" src="https://github.com/user-attachments/assets/cf65a664-ac01-48be-b751-fb6accd690a3" />
 <img width="1919" height="1038" alt="Screenshot 2025-08-02 061132" src="https://github.com/user-attachments/assets/46031cd5-a53d-4d24-95a0-3be9d7990ded" />
 ## Video: -
-https://github.com/user-attachments/assets/4f4290a9-e1b6-4360-8e6f-320e1ac7275d
+###https://github.com/user-attachments/assets/4f4290a9-e1b6-4360-8e6f-320e1ac7275d
 ## Team Contributions
 The Entire Project is developed by Aromal M
 ```bash
