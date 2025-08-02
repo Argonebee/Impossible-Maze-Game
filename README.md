@@ -1,33 +1,54 @@
-# Impossible Maze Game
-
-**Impossible Maze Game** is a web-based interactive project built for the *“Useless Project” Hackathon*. It challenges the conventions of game design by offering a deliberately frustrating, unwinnable experience.
+# Impossible Maze Game 
 
 ---
 
-## About the Project
+## Basic Details
 
-This game was intentionally designed to have no purpose or reward. The player’s cursor is locked at the center of the screen, while the maze itself moves based on the user’s mouse movement. Any contact with the black maze walls causes the game to reset.
+**Team Name:** Project X  
 
-There is no win condition—even reaching the red-bordered region does nothing. The game exists purely to frustrate the player and waste time, aligning perfectly with the theme of the hackathon.
-
----
-
-## Gameplay Features
-
-- Cursor is fixed at the center of the screen.
-- The maze image moves relative to mouse movement.
-- Touching any wall instantly resets the game.
-- There is no exit, no score, and no progression.
-- Even navigating to the red borders which is supposed to be an exit will results in Loosing.
-
-This project is not meant to be "played" in the traditional sense—it’s an artistic statement disguised as a game.
+**Team Members**  
+**Solo Team Member: -** Aromal M
 
 ---
 
-## Built With
+## Project Description
 
-- **HTML5** – Structural markup
-- **CSS3** – Styling and layout
-- **JavaScript (Vanilla)** – Game logic and interaction
+A browser-based maze game designed to be completely useless and impossible to win. Built for the “Useless Project 2.0” Hackathon, it traps the player in a game that leads nowhere and resets endlessly.
 
-No libraries, no frameworks—pure frontend code.
+---
+
+## The Problem (that doesn't exist)
+
+Sometimes life gives you too many choices and achievable goals. What if we solved the “problem” of accomplishment by creating something with *zero possibility of success*?
+
+---
+
+## The Solution (that nobody asked for)
+
+An impossible maze where the cursor is fixed at the center and the maze moves around it. Touch a wall? Game resets. Reach the red border? Still lose. Designed entirely to be unplayable, frustrating, and ultimately... pointless.
+
+---
+
+## Technical Details
+
+### Technologies/Components Used
+
+**For Software:**
+- **Languages used:** HTML, CSS, JavaScript
+- **Frameworks used:** None
+- **Libraries used:** None
+- **Tools used:** VS Code, Git, GitHub
+
+**For Hardware:**  
+(Not applicable—purely a software project.)
+
+---
+
+## Screenshots: -
+
+## Video: -
+
+## Team Contributions
+-The Entire Project is developed by Aromal M
+```bash
+
